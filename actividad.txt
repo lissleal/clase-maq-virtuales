@@ -1,0 +1,11 @@
+Porque un lenguaje solo puede usarse en algunos sistemas operativos y otros no
+Porque debe ser compatible en cuanto a funciones o librerias que usa el programa y que quizas el sistema operativo no tenga disponible
+
+Que tipo de maquina virtual soporta virtual box
+Soporta maquinas Windows, Linux, OS/2, NetBSD, FreeBSD, OpenBSD, Netware, Solaris, L4. x86 y AMD64/Intel64
+
+Que funcion cumple el hipervisor
+Permite crear y ejecutar multiples maquinas virtuales en un mismo sistema operativo, puede ser ejecutado directamente en el hardware fisico o como capa de virtualizacion sobre un sistema operativo base
+
+Si tengo una maquina virtual instalada y una se rompe como afecta a las demas y porque
+Si las maquinas estan bien aisladas y funcionando en entornos virtuales separados no se afectan entre si. La maquina virtual se comporta como una computadora independiente
